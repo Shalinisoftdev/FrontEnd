@@ -1,0 +1,33 @@
+Heading<h1><h2>
+paragraph<p></p>
+Anchor tag<a href="give the link name" target="_blank"></a>, 
+target="_blank" go to the next tab
+input tag ----self closing tag----by default it accepts text value
+Ordered list------------<ol><li></li></ol>
+unordered list ---------<ul></ul>
+image----<img src=""/>
+table------------
+<table>
+    <thead>
+        <tr></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>----no.of column1
+            <td></td>----no.of column2
+        </tr>------number of rows 1
+        <tr></tr>------number of rows 2
+    </tbody>
+    
+</table>
+
+
+<html>
+    <head>
+     <title> this should not be not visible in browser</title>
+    </head>
+
+    <body>
+        This should be visible in browser
+    </body>
+</html>
