@@ -1,0 +1,10 @@
+<style="property1:value;property:value">
+<div> tags
+Block elements-------display:flex
+padding:top right bottom left
+margin:top right bottom left
+ways of writting the colors
+ name of the colors
+ RGB values
+ hexa code
+
